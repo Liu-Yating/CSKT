@@ -63,6 +63,19 @@ python train.py \
 python test.py --config_file 'path/to/model_dir/configs.yaml'
 ```
 
+## Citation
+If you find this code useful for your research, please cite our paper.
+
+```tex
+@inproceedings{liu2024clip,
+  title={CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval},
+  author={Liu, Yating and Li, Yaowei and Liu, Zimo and Yang, Wenming and Wang, Yaowei and Liao, Qingmin},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={7935--7939},
+  year={2024},
+  organization={IEEE}
+}
+```
 
 ## Acknowledgments
 Some components of this code implementation are adopted from [CLIP](https://github.com/openai/CLIP), [IRRA](https://github.com/anosorae/IRRA) and [MaPLE](https://github.com/muzairkhattak/multimodal-prompt-learning). We sincerely appreciate for their contributions.
