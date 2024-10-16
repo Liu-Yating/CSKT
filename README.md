@@ -3,7 +3,7 @@
 
 ## Highlights
 
-The goal of this work is to design  a CLIP-based Synergistic Knowledge Transfer (CSKT) approach for Text-based Person Retrieval,  which ecollaboratively enhances the deep fusion of V-L feature representations, and thoroughly leverages the CLIP’s underlying capacities in rich knowledge and cross-modal alignment.
+This work designs a CLIP-based Synergistic Knowledge Transfer (CSKT) approach for Text-based Person Retrieval,  which collaboratively enhances the deep fusion of V-L feature representations, and thoroughly leverages the CLIP’s underlying capacities in rich knowledge and cross-modal alignment.
 
 ## Usage
 ### Requirements
